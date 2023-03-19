@@ -1,2 +1,3 @@
 # landing-page
-a project about a landing page
+
+a website about a landing page
